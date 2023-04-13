@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# Environment variables
+*.env
+
+# Media files
+media/
+
+# Node.js modules
+node_modules/
+
+# Django settings file
+/myproject/settings.py
